@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/view2"
+
+    tools:context=".fragment.HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:dividerHeight="0px"
+            android:divider="#ffffff"
+            android:scaleType="fitXY"
+            android:id="@+id/listview" />
+        <ImageView
+            android:layout_width="110dp"
+            android:layout_height="11dp"
+            android:layout_gravity="center"
+            android:src="@drawable/copy"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            />
+    </LinearLayout>
+</FrameLayout>

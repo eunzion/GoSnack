@@ -1,0 +1,31 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f0f0"
+    tools:context=".fragment.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:scaleType="fitXY"
+            android:id="@+id/img" />
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_height="11dp"
+                android:layout_gravity="center"
+                android:src="@drawable/copy"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
