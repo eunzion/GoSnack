@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/337b6c69e4358908feb588bdbaf73b7c014441fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c19ad3d2a984040d5761974695037ddf4a97cfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/578140105732d38d6c01d39e88e4d5572335c14e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aef22a9a02ef6a6f78a0e8c2c8f9ef6fd1783e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/6dc83b98ef2a99b9b608b5a3b92eaf1bbe8efa8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54c07a1375e6a09157a6e5634f0941bd1bdbae7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/04a6e421d5f5d94bcbe7d388551a5c6a4bb3d606/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe1b9552be9cad10cdf6b6fe5adf5fe5ee033a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/529b5a3096123aa000a5c920d7531d0c482e603f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48e347c23d973cc5100271efc7e384a67abfeb2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/2c053578a8ce614935fdc84fae9382b617989e92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6a297fd83904aa795eacb4b80e8992f17bb60ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/61922864519096d93240cc726dd817870294ddec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b44c60032d17dc26dd3d0115e3e872859b43c1cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c38383728a2959da3d6b42a45791dda9f1925812/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_011090fd8f8f7592c0af6234543f5f1174fb6215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/6d19cc63d612f54afee1e6829e22604149916a0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05a7e5383fd58d812de3e7d218d1c90645828353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/8a56b600d14ee06c667eaa174049af5928e8eda6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33d24519f0902bd03bec60a3bafb8d9cbd50bd9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c8c75329aaff1ea7b1f91d642a17a61c80c2a01f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63494aa41245d1c43a0aaa30cba3c0fff377cd83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="203132735c6fbf9eb142f3ae7c69d8990c66ce04">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16757cb500c415ca7fafe24a8996b5d4d67315e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/5132b364f108da61b93ec06665a95cade06bbc19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbdd718d5ae93f5a3cff6cdff2a423e7b0165c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c38383728a2959da3d6b42a45791dda9f1925812/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c1674a99223f75b53dbed1c2b0d8371378ac7788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/bfded6efdee2c1db414ae1241660a95cc7c881d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621eaa49ec348ed9f2206d3437f764eeaa1101e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/1fcf13c85f73dc8bb9b20d0b20d48111d6d9a199/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97bdb18ca9cac7fa75f9873656abafc4b583a338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/b5008819a86c8fac53a14d4e873dda5c2c8c8753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c058a6e7e907cb2dd305f739f0ab67050a1ac58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/455707efa31f56eed95a70f025f2e65b7d8d3114/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dad909b96cc54ac557e7d321db1462e3cbb3640d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/529b5a3096123aa000a5c920d7531d0c482e603f/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1f9bcf932b12056e6cf1859259df1382d572af1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c9862304c54debc7cd0f35c1b1bb52a6771dc023/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31f13ccfa51cd43a1e07eef69fc227adbb9b5852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/449a9321044319502d41eb0fe91891a9b8282bca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_462446872f99e59ad53c09dace32dbe1938bd296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/e8c0eb1c4f26a975762a52407db4da723f0e8dcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_765073ffa05203fdb7a38f743578b6cfd5f42fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/67df08b57c302be764559002bb7a56def04f17c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d729037ff4a83220d1f706356ff0dbe4b85e0d73">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a24cbb1829f0e96fadbef7f3fd11d44848d5cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/5809eab4cf7394eab0087fc72cb951337d439e43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6716317904405e5db6a87c0314e50fa1fb796874">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b05f90dbf52eaad6f76e5b352ecf999fda07d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_fe1726aec5305c5931f54eadef61305ecd885a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/7364e9f695a41df7381097d5f749c783a3d0367d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9422908f33a8d467580f98e46a86feccd239c483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_c2e0aac0535d59d6a13d57a1975284e26432650b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c06472ebba021f3340c6f9d6e2cfbc2eece198d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27488cf5e433178592e1c32970c5c5fb73885d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/0bf87fabc40f8d9224b851876a668cb86f03f49f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0846dd2e85ad1682ea4c7dac56e8c3251f86b104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/6a1f95bd5bab5cceaeb757bae1fab0249fccbf47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_432611921078151c820a2f47fc2f971f5d6281d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/64215d183bbe8452f71861008775898f5ef76367/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc861ec12dc7c90c9ccef8250088c2d47bf448c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91c98acbbc2104ee096a53b5c6d189472bbf59c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/65a919ef44e88dd9adc59788545566823da96000/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f1773432d7ecca320a6a9bc98235cd5571bbdb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/a77867e36d26907d84d0f274bd45c0eb29cea2d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a6360acc1e33be0f6a87cc93f1d7cc93145d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/5a6539f77aecc2e270d79fd47bfa7098478a5b3a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_73125f5ba2630f87653ac164f7090a0a4f41114d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_d55c2352d22515fd33baacbeb7dc783d35887e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/27d46a5af1a149f063c485ffbfe6607fcb12b01a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_612c0736af5ebfe476502f90319b59318634c2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/b2a7339ba99901ed384211b02426564128a237d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6efa061c778f1d77cf2bbe959389e39ffa6f3db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/5a6539f77aecc2e270d79fd47bfa7098478a5b3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27bfceeb44b18d82a4c0c9143beb1033bb99fd9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/88b001f477d933b1f4a452bdda9f0aac9eb10bca/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_6d2977af17255d70c17d597366f2246a1f851287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/8de6f738b4b82c51b8a1e7607cf3b1ecd7df251f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e65cf3081eba782e5eab6aaa7528c4f58b82318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/492b49213edff657b17449f68e6666bac5f78a8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef066684ef935223b310434bb8d98fed1dd2c489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/261d0ce5fe04c6d235059a38238a69419f75a4b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_316c4af7acb5d83734ffa67e7d2d0a6db3594732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/d849a46c98ba3edfd8318579e924d0f47fbb6ee1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1abf110516a609c09e68c2349517574f09279afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/a947bf4478e61ff84498d8e57c043cf139db4e01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a37a0544ec2e5bea0c39fea34b2cff397c66c543/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/4b07ad2b0f4495fa88f2e7854ca0b19f14b47bde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_632986837c1296f3837b127a4c5aa99aa1b887c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/a58738e10931dec56016e17d25d2d07f33f0522e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e3e22c0430914521be6f73b0e1d8bfc188add29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/50018327a4ce4cf13ab35770ad9dd112a4565b07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd0af247c7ba8be2690f77c2ed577da6b65cfea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/44820d1ca699357be12d4279f89bcdec7794beab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad7c0c4e11d55ea489e948e5f75e3f64d39fdf28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/f736e218d069f922364b0f27da279ed5aeefe741/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5fde6111957ae87aa1199fd637e17d6f69b76e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/07ba736a87e354d6a5a9dee41264b36cba4c0333/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc90779b76f3113d95c7bb295bd3f7296e779412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c8879ded884e494354dab777d51b590ec58d5694/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36690ff30fe8d1cc6ad2f1d42cf80dcb6860a77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/854bd0d466fc1a4288b409d93a85b5d2adfda1c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1268fecd5ac6602fb4a1b87b6a6a0930bcb70e93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/b5008819a86c8fac53a14d4e873dda5c2c8c8753/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b63ce4b79ed9c40524b3637108c9b0c9e4f3de68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/a425a4315925b758f1676c7da3091c67385ae0a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb662141566e87f45428410f64582c9a166c4e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/b74d80e6a8127c942da1fe581c07e0b53d7e4eaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c50b01ba755a54a6342e918036bdc25581d0b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_420d706b6dd720b2b21cdbd98d5e8d1a2696097c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/d8479dd5880a35f68933480cd2eb565c69a262e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b9e25f5f741fd60552d95a1d5b97f1be403175d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/7e3029984a1f1c3349b2b9e4e931e031fb370a72/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c436545c94f3dc6b6e0e4ee7df2ebef53c4aa942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/b41d1b7e96ba7dc20cd4edda5b17c575e0a76a70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4abd505d705f09cf8c67157f946fcebb426dd6b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/8ae0c877ad5475edc904ff3ac883cd82035b7ece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29e462e7171a2bd24fd630f4f3523411d4291d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/4b708e7b3eb39eb611ec425cbb0a58a846e704e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b8f6fcfc807e9a31d328bc68014ee9c02fdaf89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c4e3fef48f3199a840d383f4a2dcf42d6d3f59ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d50361f1b7df072e371477c6ba66482671c420e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_52c00d1b5f6e071eac59f5b607b8f4f59a4f7658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/4c45043d35623979e081c49afc5abd2219cbf8ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d857937fa0c0976eeb20373ac1846081720ec60e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/2bee0c4c3b00afa12a26317ed3b9bc7133a07eac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aaa2a00dbfb491cde309d21a37cb8fdad0e6df10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/5cbf2520d99157af06abb0e22f63a43d09e2f5ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08db2a3e1c75af0cfee4d1116da826c90e51831a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/d810a0a930d4da611cfcc7d7a3b08e94d9370e4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_795d7c2d40443f29569da13c23713d8e12e8b2de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/7e3029984a1f1c3349b2b9e4e931e031fb370a72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67a5333009e346e5e4a35e03466f3f11ffb1c4f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/6dd11f9ce82ea4463f605f7a8f2155985f47d806/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d2f22cf78f3a878f9e3ce99b1417fbccd7a0700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c301af5c6d23fc0c0b60b44bcd9594f2a31f28ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6128a8fbc55d95115ebe17c8f6d2027a5ba4076d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/24f51cedffabc15433312fc623caeb45c05e8abe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e83d36f6def8994e05d55cd52e02b805ee059759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/88b001f477d933b1f4a452bdda9f0aac9eb10bca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac11fc1b513e0f4c19664af3da09c18a106337bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_c48306c557a181aa35d35e8109f49a3aea606e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/c314d0742657903bbbebf2721ba9fcc19ae63166/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e871188e21cd2c5759679c032b50ff456c8aa0e">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22651b951d675e4739393262749d18d518d617b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/a8a327c7a384edb5bd4274aebb30cc0617e26bf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a74af784d155ee672cdc7ab11d92fb41bf20f88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/781bcded8513df6b42dfa7dda0103bbd5a6cdcf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68c5e9d3115fdba0600f310b5c2d957afe29fb4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.android/build-cache/0e9dafc0554c8f4cab834631c108f071c5f4c51d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a02e4e64669da13270b4f1e61f2a105cad9aed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sim-eunji/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/sim-eunji/AndroidStudioProjects/GoSnack/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_d1525e107ee1d6c544f7ef52f4d9a18e9ada495f/classes.dex" />
+    </item>
+
+</items>

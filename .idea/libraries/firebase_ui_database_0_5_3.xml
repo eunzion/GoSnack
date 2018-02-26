@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="firebase-ui-database-0.5.3">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.5.3/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.5.3/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/67df08b57c302be764559002bb7a56def04f17c5/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/67df08b57c302be764559002bb7a56def04f17c5/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
